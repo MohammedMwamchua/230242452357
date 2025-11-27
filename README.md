@@ -1,9 +1,12 @@
 Assignment 0
 
 Why is data mining sometimes used to describe the entire knowledge discovery process? Data mining refers to using analytical techniques and algorithms to uncover hidden knowledge from large amounts of data.
+
 because: It is the core and most recognizable step where insights are actually produced. Non‑technical fields often simplify terminology, merging all KDD tasks under data mining. Public perception tends to highlight the result‑generation step rather than the preparation steps like cleaning or integration. Thus, the term data mining becomes shorthand for the full knowledge discovery workflow.
 
 Differences between data wrangling, scanning, and filtering in data mining
+
+
 Data Wrangling Data wrangling is the process of cleaning, transforming, and restructuring raw data to make it ready for analysis.
 
 Key Points:
