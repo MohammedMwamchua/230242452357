@@ -10,7 +10,7 @@
 |--------------------|------------|
 | Class Participation|      2     |
 | Assignment 0       |      0     |
-| Assignment 1       |            |
+| Assignment 1       |       65.6 |
 | Assignment 2       |            |
 | Assignment 3       |            |
 | Test I             |            |
